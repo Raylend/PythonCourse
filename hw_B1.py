@@ -22,5 +22,4 @@ for element in s:
         t = t + element
 
 print("RNA string")
-answer = t
 print(t)
