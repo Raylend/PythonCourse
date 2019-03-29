@@ -1,2 +1,2 @@
 # PythonCourse
-This repository is for homeworks in frame of the course "Introduction to Python and data analysis" by Ramzan Bekbulatov
+This repository is for homeworks in the frame of the course "Introduction to Python and data analysis" by Ramzan Bekbulatov.
